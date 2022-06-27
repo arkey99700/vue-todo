@@ -1,0 +1,1 @@
+span[contenteditable=true]{width:95%;z-index:1}span[contenteditable=true]:empty:before{opacity:.5;cursor:text;content:"Enter some text"}span[contenteditable=true]:focus{outline:none}
